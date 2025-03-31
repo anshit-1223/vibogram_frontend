@@ -13,7 +13,7 @@ function App() {
         <div className='col-lg-8 col-md-8 col-sm-12'>
           <div className="row">
             <div className='col-lg-6 bg-info'> <img src={loginImage} alt="LoginImage" /></div>
-            <div className='col-lg-6 bg-danger'>VIBOGRAM Login Page</div>
+            <div className='col-lg-6 bg-danger'>VIBOGRAM LOGIN PAGE</div>
           </div>
         </div>
         <div className='col-lg-2 col-md-2 col-sm-12 bg-primary'></div>
