@@ -17,7 +17,7 @@ function App() {
           </div>
         </div>
         <div className='col-lg-2 col-md-2 col-sm-12 bg-primary'>
-          Username : anshit-1223 || Password : 123
+          Username : anshit-1223 || Password : 12345 || Status : Online
         </div>
       </div>
     </>
